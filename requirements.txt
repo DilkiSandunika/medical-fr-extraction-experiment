@@ -1,0 +1,7 @@
+# requirements.txt
+dspy-ai==2.2.0
+openai
+llama-index
+sentence-transformers
+python-dotenv
+llama-index-embeddings-huggingface
